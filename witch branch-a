@@ -1,0 +1,20 @@
+[33mcommit 23d79ed515400bf259d9ec80774e57c9bb54e77d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 21f98aa 46fc676
+Author: mari5103 <goto0326@keio.jp>
+Date:   Wed May 27 19:45:08 2026 +0900
+
+    Merge pull request #2 from mari5103/branch-b
+    
+    update the favorite food on branch-b
+
+[33mcommit 46fc6768ed124a0586f4b089dd1c70e859dc0517[m[33m ([m[1;31morigin/branch-b[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: mari <goto0326@keio.jp>
+Date:   Wed May 27 19:43:46 2026 +0900
+
+    update the favorite food on branch-b
+
+[33mcommit 21f98aabb32559d7cc9ff7e76c730307f5ba02f3[m
+Author: mari <goto0326@keio.jp>
+Date:   Wed May 27 19:39:08 2026 +0900
+
+    initial commit
